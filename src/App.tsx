@@ -6,8 +6,9 @@ import { CharacterGrid } from './components/CharacterGrid';
 import { CharacterDetail } from './components/CharacterDetail';
 import { Loading, ErrorDisplay } from './components/Loading';
 import { AnalysisPanel } from './components/analysis/AnalysisPanel';
+import { MotionDecoder } from './components/motion/MotionDecoder';
 
-type ViewMode = 'grid' | 'analysis';
+type ViewMode = 'grid' | 'analysis' | 'motion';
 
 function App() {
   // Load data on mount
@@ -32,7 +33,9 @@ function App() {
     <div className="h-screen flex flex-col bg-gray-900 text-white">
       <Header viewMode={viewMode} setViewMode={setViewMode} />
       <main className="flex-1 overflow-hidden">
-        {viewMode === 'grid' ? <CharacterGrid /> : <AnalysisPanel />}
+        {viewMode === 'grid' && <CharacterGrid />}
+        {viewMode === 'analysis' && <AnalysisPanel />}
+        {viewMode === 'motion' && <MotionDecoder />}
       </main>
       {viewMode === 'grid' && <CharacterDetail />}
     </div>
