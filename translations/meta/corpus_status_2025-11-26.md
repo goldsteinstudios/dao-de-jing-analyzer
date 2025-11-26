@@ -2,7 +2,7 @@
 
 ## Current Inventory
 
-### Fully Translated Chapters (21 files)
+### Fully Translated Chapters (25 files)
 
 | Chapter | File | Size | Status |
 |---------|------|------|--------|
@@ -19,10 +19,14 @@
 | Ch 11 | chapter11_2025-11-26.md | ~32K | Complete (radical analysis) |
 | Ch 11 | chapter11_direct_2025-11-26.md | ~13K | Complete (teaching version) |
 | Ch 12 | chapter12_2025-11-26.md | ~30K | Complete |
+| Ch 14 | chapter14_2025-11-26.md | ~12K | Complete (three imperceptibles) |
+| Ch 16 | chapter16_2025-11-26.md | ~11K | Complete (return to root cycle) |
+| Ch 21 | chapter21_2025-11-26.md | ~10K | Complete (德/道 relationship) |
 | Ch 22 | chapter22_2025-11-26.md | ~12K | Complete (geometry of yielding) |
 | Ch 25 | chapter25_2025-11-26.md | ~5K | Complete |
 | Ch 34 | chapter34_2025-11-26.md | ~10K | Complete (pattern that doesn't claim) |
 | Ch 38 | chapter38_2025-11-26.md | ~14K | Complete (degradation cascade) |
+| Ch 39 | chapter39_2025-11-26.md | ~12K | Complete (obtaining unity) |
 | Ch 40 | chapter40_2025-11-26.md | ~14K | Complete |
 | Ch 42 | chapter42_2025-11-26.md | ~15K | Complete |
 | Ch 46 | chapter46_2025-11-26.md | ~19K | Complete |
@@ -39,13 +43,14 @@
 
 ## Gaps Remaining
 
-### Untranslated Chapters (60 chapters)
+### Untranslated Chapters (56 chapters)
 
-- **Chapters 13-21** (9 chapters)
+- **Chapter 13** (1 chapter)
+- **Chapter 15** (1 chapter)
+- **Chapters 17-20** (4 chapters)
 - **Chapters 23-24** (2 chapters)
 - **Chapters 26-33** (8 chapters)
 - **Chapters 35-37** (3 chapters)
-- **Chapter 39** (1 chapter)
 - **Chapter 41** (1 chapter)
 - **Chapters 43-45** (3 chapters)
 - **Chapters 47-64** (18 chapters)
@@ -97,14 +102,18 @@ The chapters build a deliberate argument:
 7. **Ch7-10**: Persistence through non-occupation
 8. **Ch11**: Three concrete proofs (wheel, pot, room)
 9. **Ch12**: System overload / boundary violation
-10. **Ch22**: Geometry of yielding (曲則全, non-contention)
-11. **Ch25**: Recursion cycle (道大→逝→遠→反)
-12. **Ch34**: Pattern in unbounded mode (大道泛兮, 可 as rotation)
-13. **Ch38**: Degradation cascade (上德/下德, 道→德→仁→義→禮)
-14. **Ch40**: Oscillation engine (反者道之動)
-15. **Ch42**: Three dimensions sufficient
-16. **Ch46**: Sufficiency perception
-17. **Ch65**: Over-modeling fractures field
+10. **Ch14**: Three imperceptibles (夷/希/微, observation boundary)
+11. **Ch16**: Return to root cycle (歸根, 知常容 cascade)
+12. **Ch21**: 德/道 relationship (孔德之容, 唯道是從)
+13. **Ch22**: Geometry of yielding (曲則全, non-contention)
+14. **Ch25**: Recursion cycle (道大→逝→遠→反)
+15. **Ch34**: Pattern in unbounded mode (大道泛兮, 可 as rotation)
+16. **Ch38**: Degradation cascade (上德/下德, 道→德→仁→義→禮)
+17. **Ch39**: Obtaining unity (得一, scale-invariant principle)
+18. **Ch40**: Oscillation engine (反者道之動)
+19. **Ch42**: Three dimensions sufficient
+20. **Ch46**: Sufficiency perception
+21. **Ch65**: Over-modeling fractures field
 
 ---
 
