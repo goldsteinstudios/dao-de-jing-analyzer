@@ -2,7 +2,7 @@
 
 ## Current Inventory
 
-### Fully Translated Chapters (29 files)
+### Fully Translated Chapters (31 files)
 
 | Chapter | File | Size | Status |
 |---------|------|------|--------|
@@ -34,6 +34,8 @@
 | Ch 51 | chapter51_2025-11-26.md | ~13K | Complete (道生/德畜 formula, 玄德) |
 | Ch 52 | chapter52_2025-11-26.md | ~12K | Complete (recursive sourcing, 習常) |
 | Ch 65 | chapter65_2025-11-26.md | ~1.5K | Compressed (structural gloss) |
+| Ch 76 | chapter76_2025-11-26.md | ~10K | Complete (material physics: stiff/flexible) |
+| Ch 78 | chapter78_2025-11-26.md | ~11K | Complete (water overcomes stone) |
 | Ch 81 | chapter81_2025-11-26.md | ~10K | Complete (closing, system self-validates) |
 
 ### Meta Documents
@@ -47,7 +49,7 @@
 
 ## Gaps Remaining
 
-### Untranslated Chapters (52 chapters)
+### Untranslated Chapters (50 chapters)
 
 - **Chapter 13** (1 chapter)
 - **Chapter 15** (1 chapter)
@@ -58,12 +60,14 @@
 - **Chapters 43-45** (3 chapters)
 - **Chapters 47-50** (4 chapters)
 - **Chapters 53-64** (12 chapters)
-- **Chapters 66-80** (15 chapters)
+- **Chapters 66-75** (10 chapters)
+- **Chapters 77, 79-80** (3 chapters)
 
 ### Tier Classification (Remaining Chapters)
 
 **Tier 1 - Pure Structural (remaining):**
-- Ch 76, 78 (material physics - stiff/flexible, soft/hard)
+- ~~Ch 76, 78 (material physics - stiff/flexible, soft/hard)~~ ✓ COMPLETED
+- Tier 1 now 100% complete (12/12 chapters)
 
 **Tier 2 - Mixed (structural core + possible overlay):**
 - Ch 15, 17, 18, 19, 20, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 43, 44, 45, 47, 48, 49, 50, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 70, 71, 72, 73, 74, 75, 77, 79, 80
@@ -129,7 +133,9 @@ The chapters build a deliberate argument:
 22. **Ch51**: 道生/德畜 formula, 玄德 (mysterious alignment)
 23. **Ch52**: Recursive sourcing (母/子 cycle), 習常
 24. **Ch65**: Over-modeling fractures field
-25. **Ch81**: System self-validation (信 ⊥ 美, closing recursion)
+25. **Ch76**: Material physics (生=柔弱, 死=堅強)
+26. **Ch78**: Water principle (正言若反)
+27. **Ch81**: System self-validation (信 ⊥ 美, closing recursion)
 
 ---
 
@@ -231,21 +237,29 @@ From "Reality is infinite" → all structural principles derive necessarily:
 | 塞/閉 | boundary management (block/close) | Ch52 | ✓ |
 | 習常 (xí cháng) | practicing the constant | Ch52 | ✓ |
 | 信 ⊥ 美 | trustworthy ⊥ beautiful (mutual exclusion) | Ch81 | ✓ |
+| 柔弱/堅強 | yielding/rigid (life/death properties) | Ch76 | ✓ |
+| 徒 (tú) | category/follower classification | Ch76 | ✓ |
+| 正言若反 | true speech appears reversed | Ch78 | ✓ |
+| 受 (shòu) | receive (occupy lowest position) | Ch78 | ✓ |
 
 ---
 
 ## Corpus Completion Progress
 
-**Completed:** 29 chapters (35.8%)
-**Remaining:** 52 chapters (64.2%)
+**Completed:** 31 chapters (38.3%)
+**Remaining:** 50 chapters (61.7%)
 
 ### By Tier:
-- **Tier 1 (Core Structural):** 10/12 complete (83%)
-- **Tier 2 (Mixed):** ~17/48 complete (35%)
+- **Tier 1 (Core Structural):** 12/12 complete (100%) ✓
+- **Tier 2 (Mixed):** ~19/48 complete (40%)
 - **Tier 3 (Governance):** To be assessed
 - **Tier 4 (Suspect):** To be assessed
 
-### Recent Session (Phase 2):
+### Recent Session (Phase 3):
+- Chapter 76: Material physics (stiff/flexible, life/death properties)
+- Chapter 78: Water principle, 正言若反 (true speech appears reversed)
+
+### Previous Session (Phase 2):
 - Chapter 41: Three frame-responses, 若 appearance operator
 - Chapter 51: 道生/德畜 formula, 玄德
 - Chapter 52: Recursive sourcing, 習常
