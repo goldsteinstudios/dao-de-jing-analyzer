@@ -2,8 +2,8 @@
 
 ## Summary
 
-**Chapters Translated:** 33 unique chapters (36 files including variants)
-**Completion:** 40.7% (33/81 chapters)
+**Chapters Translated:** 34 unique chapters (37 files including variants)
+**Completion:** 42.0% (34/81 chapters)
 **Guodian Validated:** 28 chapters have manuscript data
 
 ---
@@ -30,6 +30,7 @@
 | 22 | chapter22_2025-11-26.md | π-operation (曲則全) |
 | 25 | chapter25_2025-11-26.md | Recursion cycle (道大→逝→遠→反) |
 | 34 | chapter34_2025-11-26.md | Pattern that doesn't claim |
+| 37 | chapter37_2025-11-27.md | Self-transformation formula (自化) |
 | 38 | chapter38_2025-11-26.md | Degradation cascade |
 | 39 | chapter39_2025-11-26.md | Obtaining unity (得一) |
 | 40 | chapter40_2025-11-26.md | Oscillation engine (反者道之動) |
@@ -53,12 +54,12 @@
 
 ---
 
-## Untranslated Chapters (48 remaining)
+## Untranslated Chapters (47 remaining)
 
-13, 15, 17, 18, 19, 20, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 43, 44, 45, 47, 49, 50, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 79, 80
+13, 15, 17, 18, 19, 20, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 43, 44, 45, 47, 49, 50, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 79, 80
 
 ### Priority (have Guodian data):
-- **Ch 37**: 道恆亡為, 自化 - HIGH priority
+- ~~**Ch 37**: 道恆亡為, 自化~~ ✓ COMPLETED
 - **Ch 57**: 自X cascade - HIGH priority
 - **Ch 32**: 道恆亡名樸, 知止 - HIGH priority
 - **Ch 54**: 修之於身
