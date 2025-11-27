@@ -1,0 +1,427 @@
+# Part III: Structural Positions
+
+*The coordinate system*
+
+---
+
+## The Principle
+
+The Dao De Jing establishes a **coordinate system** for describing reality. These aren't arbitrary categories—they're axes that orient observation, each with its own transformation rules.
+
+Understanding the axes means understanding where you're looking from.
+
+---
+
+## The 無/有 (wú/yǒu) Axis
+
+**The axis of manifestation**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **無** | wú | 舞-like (dancing/not-there) | Void, absence, potential | Throughout | ✓ Throughout |
+| **有** | yǒu | 又 + 月 (hand + moon) | Form, presence, manifest | Throughout | ✓ Throughout |
+
+### The Structural Relationship
+
+Chapter 11 defines it:
+
+> 故有之以為利，無之以為用
+> "Therefore: presence provides constraint; absence provides function"
+
+| Term | What It Is | What It Does | Example |
+|------|-----------|--------------|---------|
+| 有 (yǒu) | The substantial, the formed | Provides 利 (constraint, path-cutting) | Pot walls |
+| 無 (wú) | The void, the unformed | Provides 用 (function, capacity) | Pot interior |
+
+**The hub and the wheel:**
+- Hub (轂) = 無 — the hollow center, doesn't move
+- Rim (輪) = 有 — the solid perimeter, contacts ground
+- Spokes (輻) = connection between 無 and 有
+
+Without the 無 at center, the 有 at perimeter can't function. The hole in the hub is where the axle goes. Load-bearing void.
+
+### Chapter 1's Formula
+
+> 無名天地之始；有名萬物之母
+> "Nameless: heaven-earth's beginning; Named: ten-thousand things' mother"
+
+| State | Domain | Function |
+|-------|--------|----------|
+| 無名 (nameless) | Prior to distinction | Origin, beginning (始) |
+| 有名 (named) | After articulation | Mother of manifest things (母) |
+
+無 isn't "nothing." 無 is the generative void from which forms emerge. The belly of the potter, the room inside the walls, the space the door opens into.
+
+### The 無為 (wú wéi) Operation
+
+無為 = non-forcing action = engaging the arc instead of the straight push
+
+| What It Isn't | What It Is |
+|--------------|-----------|
+| Doing nothing | Acting without forcing |
+| Passivity | Supporting self-organization |
+| Withdrawal | Not overriding natural process |
+
+Chapter 64's definitive formula:
+
+> 輔萬物之自然，而不敢為
+> "Assist all things' self-so-ness, not daring to impose"
+
+無為 is acting from the 無 position—the generative center—rather than from the 有 position—the forceful periphery.
+
+---
+
+## The 可/常 (kě/cháng) Axis
+
+**The axis of expressibility**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **可** | kě | 丁 + 口 (nail + mouth) | Expressible, frame-dependent | 1, 32, etc. | ✓ |
+| **常** | cháng | 尚 + 巾 (value + cloth) | Invariant, frame-independent | Throughout | ✓ (as 恆) |
+
+**Guodian note:** The Guodian manuscripts use 恆 (héng) where later texts use 常 (cháng). This was changed to avoid taboo on Emperor Heng's name. Same structural meaning: frame-independent constancy.
+
+### Chapter 1's Formula
+
+> 道可道，非常道。名可名，非常名。
+> "Pattern expressible is not constant pattern. Name expressible is not constant name."
+
+| Term | What It Means | Observer Position |
+|------|--------------|-------------------|
+| 可道 (expressible pattern) | What can be articulated | Looking from a particular frame |
+| 常道 (constant pattern) | What remains invariant | Frame-independent |
+| 可名 (expressible name) | Name that can be stated | Looking from a particular frame |
+| 常名 (constant name) | Name that remains across frames | Frame-independent |
+
+### The Frame Problem
+
+可 marks what becomes visible when you orient toward it. 常 marks what remains invariant regardless of orientation.
+
+**Analogy:** The North Star appears in different positions depending on where on Earth you stand (可). But its relationship to Earth's axis remains constant regardless of your position (常).
+
+| Observation Type | What You See | What's True |
+|-----------------|--------------|-------------|
+| 可 (frame-dependent) | Pattern from this angle | Varies with observer position |
+| 常 (frame-independent) | Pattern across angles | Invariant structural relationship |
+
+### The 常道 (cháng dào)
+
+The "constant pattern" isn't a different pattern from the expressible one. It's the SAME pattern seen frame-independently.
+
+This is why 知常曰明 (knowing the constant is called clarity). Clarity is seeing what remains invariant across frames—not being trapped in the view from one angle.
+
+---
+
+## The 妙/徼 (miào/jiào) Axis
+
+**The axis of observational mode**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **妙** | miào | 女 + 少 (woman + few) | Relational patterns, subtlety | 1, 27 | ✓ |
+| **徼** | jiào | 彳 + 敫 (step + boundary) | Edges, boundaries, form-structure | 1 | ✓ |
+
+### Chapter 1's Formula
+
+> 故常無欲以觀其妙；常有欲以觀其徼
+> "Therefore: constantly without desire, observe its subtlety; constantly with desire, observe its boundaries"
+
+| Observational Mode | Orientation | What You See |
+|-------------------|-------------|--------------|
+| 無欲 (without desire) | Void-oriented | 妙 (relational patterns, subtlety) |
+| 有欲 (with desire) | Form-oriented | 徼 (edges, boundaries, structure) |
+
+### Two Valid Modes
+
+This is NOT "desire bad, non-desire good." Both observational modes are valid and necessary:
+
+| Mode | What It Reveals | Example |
+|------|-----------------|---------|
+| 觀其妙 | How things relate | Seeing the web of connections |
+| 觀其徼 | How things bound | Seeing the edges of forms |
+
+**Analogy:** Looking at a forest:
+- 妙 observation: sees the ecosystem, relationships, flows
+- 徼 observation: sees individual trees, edges, shapes
+
+Neither is wrong. Both are partial. The text documents both.
+
+### Why Two Modes?
+
+Because reality has both aspects:
+- Relational patterns (妙) that operate beneath/between forms
+- Boundary structures (徼) that define distinct things
+
+The sage can shift between modes. The stuck observer is trapped in one.
+
+---
+
+## The 動/靜 (dòng/jìng) Axis
+
+**The axis of oscillation**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **動** | dòng | 重 + 力 (heavy + force) | Movement, activity, change | 5, 15, 16, 26, 45 | ✓ |
+| **靜** | jìng | 青 + 爭 (clear + contend) | Stillness, rest, settledness | 16, 26, 37, 45 | ✓ |
+
+### The Relationship
+
+> 動而愈出 (Chapter 5) — "Moving and yet more emerges"
+> 歸根曰靜 (Chapter 16) — "Returning to root is called stillness"
+
+| State | Function | Phase |
+|-------|----------|-------|
+| 動 (moving) | Extension, expression, outward | π (outward arc) |
+| 靜 (still) | Return, gathering, inward | π (return arc) |
+
+### Not Opposites but Phases
+
+動 and 靜 aren't opposites fighting each other. They're phases of ONE oscillation:
+
+```
+靜 (still)
+    ↓
+[movement begins]
+    ↓
+動 (moving)
+    ↓
+[extension completes]
+    ↓
+靜 (still again)
+
+Total: 2π cycle
+```
+
+This is why Chapter 45 says:
+
+> 躁勝寒，靜勝熱。清靜為天下正。
+> "Agitation overcomes cold, stillness overcomes heat. Clear stillness governs all-under-heaven."
+
+靜 isn't absence of movement. 靜 is the phase where the return arc completes, where the system settles before the next cycle.
+
+---
+
+## The 剛/柔 (gāng/róu) Axis
+
+**The axis of yielding**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **剛** | gāng | 岡 + 刂 (ridge + blade) | Rigid, hard, unyielding | 76, 78 | ✓ |
+| **柔** | róu | 木 + 矛 (wood + spear?) | Flexible, soft, yielding | 43, 76, 78 | ✓ |
+
+### The Structural Distinction
+
+| Property | 剛 (rigid) | 柔 (flexible) |
+|----------|-----------|---------------|
+| Response to force | Resists | Yields |
+| Under stress | Breaks | Bends |
+| Relation to arc | Can't curve | Curves naturally |
+| Association | Death | Life |
+
+### Chapter 76's Formula
+
+> 人之生也柔弱，其死也堅強。
+> 萬物草木之生也柔脆，其死也枯槁。
+> 故堅強者死之徒，柔弱者生之徒。
+
+> "When people are born, they're soft and yielding; at death, hard and stiff.
+> When plants are born, they're soft and tender; at death, dried and brittle.
+> Therefore: the hard and stiff are death's followers; the soft and yielding are life's followers."
+
+### Why 柔 Overcomes 剛
+
+Chapter 78: 柔之勝剛 ("Soft overcomes hard")
+
+This isn't moral advice about humility. It's physics:
+
+- 剛 can't engage the π-operation (can't arc)
+- 柔 can engage the π-operation (can arc)
+- Therefore 柔 persists through cycles where 剛 breaks
+
+**The scythe blade flexes. The brittle blade shatters.**
+
+---
+
+## The 高/下 (gāo/xià) Axis
+
+**The axis of position**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **高** | gāo | 亠 + 口 + 冋 (roof + mouth + enclosure) | Elevated, high | 2, 39 | ✓ |
+| **下** | xià | — | Low, below | 2, 8, 39, 61, 66 | ✓ |
+
+### Chapter 2's Formula
+
+> 高下相盈 — "High and low mutually fill"
+
+| Position | What It Does | Structural Role |
+|----------|--------------|-----------------|
+| 高 (high) | Elevates | Occupies visible position |
+| 下 (low) | Receives | Provides foundation |
+
+### The Paradox of Position
+
+> 欲上民，必以言下之 (Chapter 66)
+> "Wanting to be above the people, must by words be below them"
+
+The text consistently documents that:
+- 下 position enables 上 function
+- Seeking 高 directly produces failure
+- 谷 (valley, lowest point) is where rivers begin
+
+This connects to the 無/有 axis:
+- 下 position ≈ 無 position (generative void)
+- 高 position ≈ 有 position (manifest form)
+
+Those who seek high positions fight for scarce elevation.
+Those who take low positions become the foundation everything rests on.
+
+---
+
+## The 先/後 (xiān/hòu) Axis
+
+**The axis of sequence**
+
+### Core Characters
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **先** | xiān | 止 + 儿 (foot + person) | Before, first, ahead | 2, 7, 66, 67 | ✓ |
+| **後** | hòu | 彳 + 幺 + 夂 (step + thread + walking) | After, behind, following | 2, 7, 66, 67 | ✓ |
+
+### Chapter 2's Formula
+
+> 先後相隨 — "Before and after mutually follow"
+
+### Chapter 7's Application
+
+> 是以聖人後其身而身先
+> "Therefore the sage puts self behind and self ends up ahead"
+
+| Strategy | What It Seeks | What Results |
+|----------|--------------|--------------|
+| 先其身 (put self first) | Priority | Exhaustion, conflict |
+| 後其身 (put self behind) | Following | Ends up leading |
+
+### The Sequence Paradox
+
+This parallels the 高/下 dynamic:
+- Seeking 先 (first) produces falling behind
+- Accepting 後 (behind) produces ending up first
+
+The structural reason: 先 position requires defending against all who follow. 後 position has no position to defend.
+
+---
+
+## Summary: The Coordinate System
+
+| Axis | Pole A | Pole B | What It Measures |
+|------|--------|--------|-----------------|
+| 無/有 | Void | Form | Manifestation |
+| 可/常 | Expressible | Invariant | Frame-dependence |
+| 妙/徼 | Relational | Boundary | Observational mode |
+| 動/靜 | Moving | Still | Oscillation phase |
+| 剛/柔 | Rigid | Yielding | Response to force |
+| 高/下 | High | Low | Vertical position |
+| 先/後 | Before | After | Temporal sequence |
+
+### The Axes Are Related
+
+```
+          常 (invariant)
+              │
+              │
+妙 (relational)───┼───徼 (boundary)
+              │
+              │
+          可 (expressible)
+
+              ↕
+          無/有 (void/form)
+              ↕
+          動/靜 (moving/still)
+              ↕
+          剛/柔 (rigid/yielding)
+```
+
+The axes aren't independent—they map onto each other:
+
+| Pattern | Common Thread |
+|---------|---------------|
+| 無, 常, 妙, 靜, 柔, 下, 後 | Receptive, void-oriented, yielding |
+| 有, 可, 徼, 動, 剛, 高, 先 | Active, form-oriented, forcing |
+
+But this isn't "Pole A good, Pole B bad." The text documents how both poles arise together (相生) and how oscillation between them (反) is the pattern's movement.
+
+---
+
+## The 玄 (xuán) Position
+
+**The origin point where axes haven't yet separated**
+
+### Core Character
+
+| Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
+|-----------|--------|------------|----------|--------------|----------|
+| **玄** | xuán | 幺 doubled (thread twisted) | Paradoxical origin, before-separation | 1, 6, 10, 51, 56 | ✓ |
+
+### What 玄 Marks
+
+玄 isn't "mysterious" in the sense of unknowable. 玄 is the **generative center where both poles exist as potential but haven't separated**.
+
+> 玄之又玄，眾妙之門 (Chapter 1)
+> "Paradoxical and again paradoxical—the gate of all subtleties"
+
+The 玄 position is where:
+- 無 and 有 haven't yet distinguished
+- 可 and 常 haven't yet split
+- 妙 and 徼 are both accessible
+
+### The 玄牝 (xuán pìn) — "Paradoxical Female"
+
+Chapter 6: The valley spirit doesn't die, called the paradoxical female.
+
+玄牝 = the generative opening at origin, the gate from which forms emerge.
+
+### The 玄同 (xuán tóng) — "Paradoxical Sameness"
+
+Chapter 56's formula after the six boundary operations:
+
+> 是謂玄同
+> "This is called paradoxical sameness"
+
+玄同 = the state beyond all axes, where distinctions haven't yet arisen, where 貴/賤, 親/疏, 利/害 don't apply.
+
+### Why 玄 Matters
+
+玄 is the O position in the coordinate system—the origin from which all axes extend.
+
+The sage operates from 玄:
+- Not at one pole or the other
+- But at the generative center
+- Where both poles are available
+
+This is why 無為 works—it operates from the origin (玄), not from one pole trying to overcome the other.
+
+---
+
+*This is Part III of the Structural Lexicon.*
+*Part I (Substrate Families) documents what receives operations.*
+*Part II (Operator Families) documents what transforms substrates.*
+*Part IV (Concept Index) cross-references by operational principle.*
