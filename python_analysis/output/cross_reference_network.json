@@ -158,6 +158,12 @@
         "translated": true
       },
       {
+        "id": 56,
+        "title": "Chapter 56: Those Who Know Don't Speak",
+        "subtitle": "Boundary management and 玄同 (mysterious sameness)",
+        "translated": true
+      },
+      {
         "id": 65,
         "title": "Chapter 65 — The Law of Subtle Orientation",
         "subtitle": "",
@@ -180,12 +186,6 @@
         "title": "Chapter 81: Trustworthy Words Aren't Beautiful",
         "subtitle": "Closing chapter: the system self-validates",
         "translated": true
-      },
-      {
-        "id": 56,
-        "title": "Chapter 56",
-        "subtitle": "(not yet translated)",
-        "translated": false
       }
     ],
     "edges": [
@@ -1258,6 +1258,114 @@
         "context": "This is paradox-resolution from Chapter 41: what appears as its opposite from misaligned frames is actually the thing itself."
       },
       {
+        "source": 56,
+        "target": 1,
+        "type": "references",
+        "context": "### Connection to Chapter 1"
+      },
+      {
+        "source": 56,
+        "target": 1,
+        "type": "references",
+        "context": " Chapter 1: 道可道非常道，名可名非常名"
+      },
+      {
+        "source": 56,
+        "target": 4,
+        "type": "references",
+        "context": " ### Connection to Chapter 4"
+      },
+      {
+        "source": 56,
+        "target": 4,
+        "type": "references",
+        "context": " Chapter 4: 挫其銳，解其紛，和其光，同其塵"
+      },
+      {
+        "source": 56,
+        "target": 4,
+        "type": "references",
+        "context": "Chapter 4 introduces these operations as what 道 does."
+      },
+      {
+        "source": 56,
+        "target": 4,
+        "type": "references",
+        "context": "The chapter explicitly quotes Chapter 4—this is **intertextual reference** within the DDJ itself."
+      },
+      {
+        "source": 56,
+        "target": 52,
+        "type": "references",
+        "context": " ### Connection to Chapter 52"
+      },
+      {
+        "source": 56,
+        "target": 52,
+        "type": "references",
+        "context": " Chapter 52: 塞其兌，閉其門，終身不勤"
+      },
+      {
+        "source": 56,
+        "target": 52,
+        "type": "specifies",
+        "context": "Same boundary management formula. Chapter 52 specifies the result (終身不勤—lifelong no toil). Chapter 56 includes it in the larger sequence leading to 玄同."
+      },
+      {
+        "source": 56,
+        "target": 81,
+        "type": "references",
+        "context": " ### Connection to Chapter 81"
+      },
+      {
+        "source": 56,
+        "target": 81,
+        "type": "references",
+        "context": " Chapter 81: 信⊥美, 善⊥辯, 知⊥博"
+      },
+      {
+        "source": 56,
+        "target": 81,
+        "type": "references",
+        "context": "Same mutual exclusion structure. Chapter 81 lists three pairs; Chapter 56 adds a fourth (知/言)."
+      },
+      {
+        "source": 56,
+        "target": 5,
+        "type": "references",
+        "context": " ### Connection to Chapter 5"
+      },
+      {
+        "source": 56,
+        "target": 5,
+        "type": "references",
+        "context": " Chapter 5: 天地不仁，以萬物為芻狗"
+      },
+      {
+        "source": 56,
+        "target": 5,
+        "type": "contrast",
+        "context": "Same structural indifference. Chapter 5 documents heaven/earth's non-preference. Chapter 56 documents the 玄同 position's non-positionability in standard oppositions."
+      },
+      {
+        "source": 56,
+        "target": 1,
+        "type": "references",
+        "context": "| Ch 1 | 玄之又玄 | Mystery upon mystery (origin access) |"
+      },
+      {
+        "source": 56,
+        "target": 6,
+        "type": "references",
+        "context": "| Ch 6 | 玄牝 | Mysterious female (generative void) |"
+      },
+      {
+        "source": 56,
+        "target": 51,
+        "type": "references",
+        "context": "| Ch 51 | 玄德 | Mysterious alignment (from origin) |"
+      },
+      {
         "source": 76,
         "target": 22,
         "type": "references",
@@ -1471,24 +1579,23 @@
       46,
       51,
       52,
+      56,
       65,
       76,
       78,
       81
     ],
-    "referenced_untranslated": [
-      56
-    ]
+    "referenced_untranslated": []
   },
   "statistics": {
     "total_nodes": 31,
-    "total_edges": 209,
-    "translated_count": 30,
-    "referenced_untranslated_count": 1,
+    "total_edges": 227,
+    "translated_count": 31,
+    "referenced_untranslated_count": 0,
     "top_hubs": [
       {
         "chapter": 1,
-        "in_degree": 17,
+        "in_degree": 20,
         "title": "CHAPTER 1 - 11.4.25",
         "translated": true
       },
@@ -1496,6 +1603,12 @@
         "chapter": 25,
         "in_degree": 17,
         "title": "Chapter 25: The Recursion Cycle",
+        "translated": true
+      },
+      {
+        "chapter": 5,
+        "in_degree": 16,
+        "title": "CHAPTER 05 - 11.4.25",
         "translated": true
       },
       {
@@ -1511,21 +1624,15 @@
         "translated": true
       },
       {
+        "chapter": 4,
+        "in_degree": 15,
+        "title": "Chapter 4: Exploring the Depths",
+        "translated": true
+      },
+      {
         "chapter": 2,
         "in_degree": 13,
         "title": "CHAPTER 02 - 11.4.25",
-        "translated": true
-      },
-      {
-        "chapter": 5,
-        "in_degree": 13,
-        "title": "CHAPTER 05 - 11.4.25",
-        "translated": true
-      },
-      {
-        "chapter": 4,
-        "in_degree": 11,
-        "title": "Chapter 4: Exploring the Depths",
         "translated": true
       },
       {
@@ -1547,27 +1654,21 @@
         "translated": true
       }
     ],
-    "priority_gaps": [
-      {
-        "chapter": 56,
-        "references": 2
-      }
-    ],
+    "priority_gaps": [],
     "connection_types": {
-      "references": 174,
+      "references": 190,
       "validates": 12,
-      "contrast": 4,
+      "contrast": 5,
       "same_principle": 4,
       "extends": 5,
       "same_term": 2,
-      "specifies": 4,
+      "specifies": 5,
       "applies": 4
     },
     "leaf_nodes": [
       25,
       40,
-      65,
-      56
+      65
     ],
     "most_referencing": [
       {
@@ -1577,6 +1678,11 @@
       },
       {
         "chapter": 10,
+        "out_degree": 18,
+        "translated": true
+      },
+      {
+        "chapter": 56,
         "out_degree": 18,
         "translated": true
       },
@@ -1613,11 +1719,6 @@
       {
         "chapter": 11,
         "out_degree": 10,
-        "translated": true
-      },
-      {
-        "chapter": 21,
-        "out_degree": 9,
         "translated": true
       }
     ]
@@ -2718,6 +2819,104 @@
         ]
       ],
       "filepath": "/Users/willgoldstein/claudecode/dao-de-jing-analyzer/dao-de-jing-analyzer/translations/chapters/chapter52_2025-11-26.md"
+    },
+    {
+      "chapter": 56,
+      "title": "Chapter 56: Those Who Know Don't Speak",
+      "subtitle": "Boundary management and 玄同 (mysterious sameness)",
+      "connections": [
+        [
+          1,
+          "references",
+          "### Connection to Chapter 1"
+        ],
+        [
+          1,
+          "references",
+          " Chapter 1: 道可道非常道，名可名非常名"
+        ],
+        [
+          4,
+          "references",
+          " ### Connection to Chapter 4"
+        ],
+        [
+          4,
+          "references",
+          " Chapter 4: 挫其銳，解其紛，和其光，同其塵"
+        ],
+        [
+          4,
+          "references",
+          "Chapter 4 introduces these operations as what 道 does."
+        ],
+        [
+          4,
+          "references",
+          "The chapter explicitly quotes Chapter 4—this is **intertextual reference** within the DDJ itself."
+        ],
+        [
+          52,
+          "references",
+          " ### Connection to Chapter 52"
+        ],
+        [
+          52,
+          "references",
+          " Chapter 52: 塞其兌，閉其門，終身不勤"
+        ],
+        [
+          52,
+          "specifies",
+          "Same boundary management formula. Chapter 52 specifies the result (終身不勤—lifelong no toil). Chapter 56 includes it in the larger sequence leading to 玄同."
+        ],
+        [
+          81,
+          "references",
+          " ### Connection to Chapter 81"
+        ],
+        [
+          81,
+          "references",
+          " Chapter 81: 信⊥美, 善⊥辯, 知⊥博"
+        ],
+        [
+          81,
+          "references",
+          "Same mutual exclusion structure. Chapter 81 lists three pairs; Chapter 56 adds a fourth (知/言)."
+        ],
+        [
+          5,
+          "references",
+          " ### Connection to Chapter 5"
+        ],
+        [
+          5,
+          "references",
+          " Chapter 5: 天地不仁，以萬物為芻狗"
+        ],
+        [
+          5,
+          "contrast",
+          "Same structural indifference. Chapter 5 documents heaven/earth's non-preference. Chapter 56 documents the 玄同 position's non-positionability in standard oppositions."
+        ],
+        [
+          1,
+          "references",
+          "| Ch 1 | 玄之又玄 | Mystery upon mystery (origin access) |"
+        ],
+        [
+          6,
+          "references",
+          "| Ch 6 | 玄牝 | Mysterious female (generative void) |"
+        ],
+        [
+          51,
+          "references",
+          "| Ch 51 | 玄德 | Mysterious alignment (from origin) |"
+        ]
+      ],
+      "filepath": "/Users/willgoldstein/claudecode/dao-de-jing-analyzer/dao-de-jing-analyzer/translations/chapters/chapter56_2025-11-26.md"
     },
     {
       "chapter": 65,
