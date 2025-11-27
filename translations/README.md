@@ -1,188 +1,125 @@
-# Translation Integration System
+# Structural Translations
 
-## Overview
+This folder contains the core translation work: treating the Dao De Jing as geometric notation rather than mystical poetry.
 
-This system helps **bidirectionally integrate** your draft chapter translations with the validated test corpus (Tests 1-9).
-
-**It does two things:**
-1. **Extract insights from your translations** that aren't yet documented
-2. **Update your translations** with validated character corrections from the corpus
-
-## Quick Start
-
-### Step 1: Add Your Translations
-
-You can share translations in **any format**. I'll parse them and structure them. Just paste them in chat or save as files in:
-```
-translations/chapters/chapter01.md
-translations/chapters/chapter02.md
-...
-```
-
-### Step 2: Run Integration
-
-```bash
-cd translations
-python3 translation_integrator.py
-```
-
-This will:
-- ✅ Parse all your translations
-- ✅ Identify which validated characters you're using
-- ✅ Find new patterns not yet in test_results/
-- ✅ Generate coverage reports
-- ✅ Suggest updates based on corpus
-
-### Step 3: Get Chapter-Specific Suggestions
-
-To see what validated insights apply to a specific chapter:
-```python
-integrator = TranslationIntegrator()
-suggestions = integrator.suggest_updates('chapters/chapter25.md')
-print(suggestions)
-```
-
-## What's In The Corpus
-
-The system knows about all validated findings from Tests 1-9:
-
-### **Validated Characters (17 total)**
-- 常, 欲, 利, 仁, 反, 弱, 德, 慈, 愛, 惡, 治, 清, 和, 名, 非, 玄
-- Each with: traditional reading → geometric reading, structure, validation test
-
-### **Radical Families (3 substrate types)**
-- **禾 (grain)**: 10 operations on discrete resources (TEST7)
-- **氵(water)**: 20 operations on continuous fluids (TEST8)
-- **心 (heart)**: 16 operations on internal state (TEST9)
-
-### **Key Discoveries**
-- Character construction as function composition: f(substrate, operation) → result
-- Operator reuse across substrates (茲, 工, 直, etc.)
-- 德 (virtue) = straight internal motion, NOT moral goodness
-- 治 (governance) = flow channeling, appears 13 times!
-
-## Files Generated
-
-After running the integrator:
-
-**analysis/validated_characters.json** - All 17 validated characters with full data
-**analysis/coverage_report.txt** - Which chapters use which validations
-**analysis/new_insights.json** - Patterns found in your translations not yet in corpus
-**analysis/update_suggestions/** - Chapter-specific recommendations
-
-## Bidirectional Flow
+## Folder Structure
 
 ```
-Your Translations  ←→  Test Corpus
-      ↓                    ↓
-  Extract new      →   Validated
-  patterns             corrections
-      ↓                    ↓
-  Add to corpus    ←   Update
-                      translations
+translations/
+├── chapters/        # Individual chapter translations
+├── lexicon/         # Structural lexicon (character algebra)
+├── meta/            # Framework documents
+├── archaeology/     # Guodian manuscript analysis
+└── analysis/        # Integration tools
 ```
 
-## Example Workflow
+## Chapters (35 completed)
 
-1. **You share Chapter 25 translation** (can be rough draft, any format)
+Each chapter file includes:
+- **Original text** (Chinese)
+- **Character-by-character decomposition** with radical analysis
+- **Structural translation** (what the text documents, not what it "means")
+- **Guodian validation** (where available from ~300 BCE manuscripts)
+- **Cross-references** to related chapters
 
-2. **I parse it:**
-   ```
-   Found characters: 道, 大, 天, 地, 常, 遠, 反...
-   Validated characters used: 道 ✓, 反 ✓, 常 ✓
-   Radical families: 辶 (walking radical)
-   New pattern: 道大 as compound (field-mode)
-   ```
+### File naming
+`chapterXX_YYYY-MM-DD.md` (e.g., `chapter64_2025-11-26.md`)
 
-3. **I cross-reference:**
-   ```
-   ✓ 反 validated by TEST1, TEST2 (reversal/unitarity)
-   ✓ 常 validated by TEST1 (implicit/concealed)
-   ⚠ Pattern "道大→逝→遠→反" mentioned but not in corpus
-   ```
+### Chapters translated
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 21, 22, 25, 34, 38, 39, 40, 41, 42, 46, 48, 51, 52, 56, 64, 65, 76, 78, 81
 
-4. **I generate updates:**
-   ```
-   SUGGESTED ADDITIONS TO TRANSLATION:
-   - 反: Emphasize unitary conjugation (Schrödinger constraint)
-   - 常: Use "implicit" not "eternal"
+Plus specialized analyses:
+- `chapter11_wheel_reread_2025-11-26.md` - Deep dive on void/function
+- `chapter22_pi_operation_2025-11-26.md` - The π-operation discovery
 
-   NEW INSIGHTS TO ADD TO CORPUS:
-   - 大 as unbounded field operator
-   - 道大 = pattern-as-field (not "great way")
-   - Oscillation built into epistemology (執大道→反)
-   ```
+## Lexicon (6 parts)
 
-5. **Result**: Your translation gets validated character readings, corpus gets new pattern documentation
+The structural lexicon documents characters as transformation equations:
 
-## What Format Should Translations Be?
+| Part | Content |
+|------|---------|
+| 00 | Introduction - How to use this as an algebra manual |
+| 01 | Substrate Families - What receives operations (禾, 氵, 心, 貝, 木, 土) |
+| 02 | Operator Families - What transforms substrates (刂, 口, 反, 彳) |
+| 03 | Structural Positions - The coordinate system (無/有, 可/常, 妙/徼, etc.) |
+| 04 | Concept Index - Cross-reference by operational principle |
+| 05 | Pinyin Index - Alphabetical lookup |
 
-**Any format works!** Just share them and I'll parse. Examples:
+### Key insight
+Characters are equations: `f(substrate, operator) → result`
 
-### Minimalist:
-```
-Chapter 40
-反者道之動，弱者道之用
-Reversal is how pattern evolves; superposition is how pattern functions
-```
+Example: 利 = 禾 (grain) + 刂 (blade) = scythe operation (arc through field)
 
-### Detailed:
-```markdown
-# Chapter 40: Schrödinger Constraints
+## Meta Documents
 
-## Text
-反 者 道 之 動
-弱 者 道 之 用
+Framework and methodology files:
 
-## Translation
-Reversal (反) = unitarity constraint
-Weak/flexible (弱) = superposition principle
-Pattern (道) evolves via reversal, functions via indefiniteness
+| File | Content |
+|------|---------|
+| `chapter25_rosetta_stone.md` | The key that unlocks the recursion formula |
+| `scythe_not_knife_2025-11-27.md` | Critical correction: 利 = scythe, not knife |
+| `radical_families_grain_blade_2025-11-27.md` | Complete mapping of 禾 and 刂 families |
+| `framework_synthesis_2025-11-26.md` | Overall methodology |
+| `corpus_status_2025-11-26.md` | Translation progress tracking |
 
-## Characters
-- 反 = 又(hand) + 厂(cliff) = turning back = H†
-- 弱 = 弓+弓 = double bow = flexibility = don't collapse ψ
-```
+## Archaeology
 
-### Just text:
-```
-I think chapter 25 is about how even the unbounded field has oscillation.
-It says 大 which means the gesture of everything, arms spread, not grasping.
-And then 逝遠反 - extends, reaches boundary, returns.
-Like the mind can't actually hold infinite, it bounces back.
-```
+Guodian bamboo slip manuscript analysis (~300 BCE):
 
-**All work!** I'll extract the insights and structure them.
+| File | Content |
+|------|---------|
+| `guodian_bundle_a_inventory.md` | Bundle A: Chapters 19, 66, 46, 30, 15, 64, 37, 63, 2, 32, 25, 5, 16, 56, 57, 55, 44, 40, 9 |
+| `guodian_bundle_b_inventory.md` | Bundle B: Chapters 59, 48, 20, 13, 41, 52, 45, 54 |
+| `guodian_bundle_c_inventory.md` | Bundle C: Chapters 17, 18, 31, 35, 64 |
+| `guodian_cross_reference_report.md` | Which chapters are validated by manuscripts |
+| `guodian_section_break_analysis.md` | Original text organization (tadpole markers) |
+| `source_images/` | Bamboo slip photographs (A/B/C bundles) |
 
-## Reference: Validated Characters Quick Lookup
+### Key Guodian findings
+- Uses 恆 (héng) where later texts use 常 (cháng)
+- Uses 亡 (wáng) where later texts use 無 (wú)
+- Section breaks (■) show original organization differed from 81-chapter structure
+- Chapters 15-64-56 flow together without breaks
 
-See `analysis/validated_characters.json` for full data.
+## Translation Principles
 
-**Quick list:**
-- **常** (cháng): implicit/concealed ← NOT "eternal"
-- **欲** (yù): directed orientation ← NOT "desire as craving"
-- **利** (lì): constraint/path-cutting ← NOT "benefit"
-- **仁** (rén): relational accommodation ← NOT "benevolence"
-- **反** (fǎn): reversal/unitarity ← NOT "return"
-- **弱** (ruò): superposition/indefinite ← NOT "weak"
-- **德** (dé): straight internal motion ← NOT "virtue as morality"
-- **慈** (cí): expansive state ← NOT "compassion"
-- **愛** (ài): bonding force ← NOT "love as emotion"
-- **惡** (è): degraded mode ← NOT "evil as sin"
-- **治** (zhì): flow channeling ← NOT "moral governance"
-- **清** (qīng): transparent medium ← NOT "purity"
-- **和** (hé): distribution equilibrium ← NOT "harmony"
-- **名** (míng): explicit/manifest ← NOT "name"
-- **非** (fēi): complementary pair ← NOT "not/wrong"
-- **玄** (xuán): subtle entry point ← NOT "mysterious"
+### What we do
+- Document what the text **encodes** (geometric operations)
+- Validate against earliest manuscripts
+- Treat characters as structural equations
+- Map radical families systematically
 
-## Let's Integrate!
+### What we avoid
+- Moral interpretation ("you should...")
+- Mystical vagueness ("the ineffable...")
+- Anachronistic concepts (quantum mechanics, etc.)
+- Prescriptive reading (the text describes, it doesn't prescribe)
 
-Just share your translations (any format, any completeness) and I'll:
-1. Parse them
-2. Cross-reference with corpus
-3. Extract new insights
-4. Generate update suggestions
-5. Build unified knowledge base
+### The filtering test
+Every translation should pass: "This is what happens when X" not "You should do X"
 
-Ready when you are!
+## Core Formulas
+
+| Chapter | Formula | What it encodes |
+|---------|---------|-----------------|
+| 1 | 道可道非常道 | Frame-dependent vs frame-independent pattern |
+| 11 | 有之以為利，無之以為用 | Form constrains, void functions |
+| 22 | 曲則全 | Curving completes (π-operation) |
+| 25 | 道大→逝→遠→反 | Recursion cycle |
+| 40 | 反者道之動 | Reversal is pattern's movement |
+| 48 | 損之又損以至於無為 | Recursive subtraction to non-imposing |
+| 64 | 輔萬物之自然而不敢為 | Assist self-so-ness, don't impose |
+
+## Usage
+
+These translations are reference documents for understanding the Dao De Jing as technical notation. They're not meant to replace literary translations but to reveal the geometric structure beneath them.
+
+Start with:
+1. `meta/chapter25_rosetta_stone.md` - The decoder ring
+2. `lexicon/00_lexicon_introduction.md` - How to read characters as equations
+3. `chapters/chapter64_2025-11-26.md` - The 無為 definition
+
+---
+
+*Author: Will Goldstein, 2025*
+*With structural analysis assistance from Claude (Anthropic)*
