@@ -13,11 +13,13 @@ This isn't metaphor. It's the operational principle embedded in every tool that 
 | Tool | Anchor (O) | Radius (G) | Arc (P) | Function |
 |------|------------|------------|---------|----------|
 | Pole vault | Pole base | Pole length | Body sweeps π | River crossed |
-| Scythe | Feet | Handle+blade | Blade sweeps π | Grain cut |
+| **Scythe** | Feet planted | Handle+blade | Blade sweeps π | Field harvested |
 | Wheel | Axle | Spoke | Rim rotates 2π | Motion without sliding |
 | Door | Hinge | Door width | Door sweeps π | Space opened |
 | Compass | Pin | Arm length | Pencil sweeps 2π | Circle drawn |
 | Well sweep | Fulcrum | Beam length | Bucket sweeps π | Water raised |
+
+**Note on Scythe**: Not "grain cut" (knife logic) but "field harvested" (arc logic). You cannot harvest with a knife—the field is impossible to linear force. The scythe's arc is what makes harvest possible.
 
 Every tool: **O → G → P → function**
 
@@ -106,16 +108,32 @@ The pattern doesn't just go out—it completes the circle. The arc that crosses 
 
 ## 利 (lì) as the π-Operation Applied
 
+### The Scythe-Not-Knife Distinction
+
+**Critical**: 利 documents the SCYTHE operation, not knife-cutting.
+
+You cannot harvest a field with a knife. A knife cuts by linear push—one stalk at a time, exhausting, inadequate to the task. The field wins.
+
+The scythe solves the impossible problem:
+
+```
+Farmer stance (O) ─── Handle (G) ───→ Blade
+                                        │
+                                   [ARC SWEEP π]
+                                        │
+                                   Grain falls in swath
+```
+
 ### Character Decomposition
 
 | Component | Meaning | Function |
 |-----------|---------|----------|
-| 禾 (hé) | Grain | Undifferentiated field, standing potential |
-| 刂 (dāo) | Blade | Zero-thickness edge that draws distinction |
+| 禾 (hé) | Standing grain | The undifferentiated field, infinite potential |
+| 刂 (dāo) | Scythe blade | The edge that arcs through substrate |
 
-**利 = blade sweeping through grain = π-operation applied to substrate**
+**利 = scythe-blade sweeping through grain = π-operation applied to field**
 
-The blade doesn't just cut. It **arcs**. And in that arc:
+The scythe doesn't "cut" in the knife sense. It **arcs**. And in that arc:
 
 1. **Inside** created (cleared, harvested, void)
 2. **Outside** created (still standing, uncut, full)
