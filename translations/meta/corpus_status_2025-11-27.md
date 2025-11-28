@@ -97,6 +97,7 @@ Six-part structural lexicon complete:
 | radical_technology_encoding_2025-11-27.md | Complete - radicals as technology manuals |
 | loom_axiom_identity_2025-11-27.md | Complete - loom IS axiom system |
 | focusing_operation_2025-11-27.md | Complete - 勺 as concave transformation |
+| forge_transformation_grammar_2025-11-27.md | Complete - metallurgy as axiom encoding |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -152,7 +153,17 @@ Six-part structural lexicon complete:
    - 灼 = 火 + 勺 = fire + concave = burning (focused heat)
    - Bronze mirror performs G→P transformation in polished metal
    - 目的 (purpose) = where the eye focuses, optical concentration
-   - Metalworking radicals may encode complete forge-transformation grammar
+   - 豹 (leopard) = beast + concave = the predator that focuses attention
+
+7. **The Forge Transformation Grammar**
+   - 淬 = 氵 + 卒 = water + sudden = QUENCH (rate determines state)
+   - 退火 = retreating fire = ANNEAL (slow relaxation to equilibrium)
+   - Same boundary crossed at different rates → different results
+   - 煉 = fire + select = refining separates 無/有
+   - 鑄 (cast) = single-step to durable form; 鍛 (forge) = iterative shaping
+   - 鋼 (steel) = metal + ridge = 剛 at the right scale
+   - Differential hardening = engineering 剛/柔 distribution in single object
+   - The forge knows 反 in both directions: snap to position vs oscillate to rest
 
 ---
 
