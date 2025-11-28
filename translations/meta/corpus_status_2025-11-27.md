@@ -96,6 +96,7 @@ Six-part structural lexicon complete:
 | radical_families_grain_blade_2025-11-27.md | Complete |
 | radical_technology_encoding_2025-11-27.md | Complete - radicals as technology manuals |
 | loom_axiom_identity_2025-11-27.md | Complete - loom IS axiom system |
+| focusing_operation_2025-11-27.md | Complete - 勺 as concave transformation |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -144,6 +145,14 @@ Six-part structural lexicon complete:
    - 結 (knot) = P-position where flow becomes place
    - Silkworm running transformation algebra before Euler derived it
    - "Notation systems aren't inventions. They're recoveries."
+
+6. **The Focusing Operation (勺)**
+   - 勺 encodes concave transformation—distributed field → focal point
+   - 的 = 白 + 勺 = brightness + concave = where light focuses
+   - 灼 = 火 + 勺 = fire + concave = burning (focused heat)
+   - Bronze mirror performs G→P transformation in polished metal
+   - 目的 (purpose) = where the eye focuses, optical concentration
+   - Metalworking radicals may encode complete forge-transformation grammar
 
 ---
 
