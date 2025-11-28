@@ -31,6 +31,7 @@ CURRENT/
 | `methodology.md` | Formal research methodology for identifying recursive patterns |
 | `al-an.md` | AL-AN engine spec — pattern-recognition intelligence architecture |
 | `symbol_reference.md` | Standard mathematical notation and variable definitions |
+| `structural_primitives.md` | The irreducible elements: P₀→O₁→G/B→Pₙ→Rₙ logical chain |
 | `falsification.md` | What would disprove RSM - empirical and theoretical conditions |
 | `recovered_insights.md` | Valuable formulations from earlier work worth reintegrating |
 
@@ -60,9 +61,13 @@ CURRENT/
 
 ## 03_ttc_mappings/ - Tao Te Ching
 
-**Note**: Primary TTC translations are in `/translations/` directory.
+| Document | Purpose |
+|----------|---------|
+| `rsm_ttc_bridge.md` | RSM-TTC vocabulary mapping |
+| `guodian_drift_analysis.md` | Character drift: physical → abstract encoding |
+| `hydraulic_framework.md` | The DDJ as hydraulic engineering manual |
 
-This folder is for structural analysis documents linking RSM to specific TTC concepts.
+**Note**: Primary TTC translations are in `/translations/` directory.
 
 See also:
 - `/translations/lexicon/` - Character-by-character structural definitions
