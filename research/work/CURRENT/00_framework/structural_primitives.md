@@ -207,7 +207,8 @@ Tree₃.Z = circulation at twig level
 
 | Chinese | RSM | Meaning |
 |---------|-----|---------|
-| **道** | O₁ | Origin, coordinate holder |
+| **道** | R | The whole pattern; recursion itself |
+| **玄** | O₁ | Paradoxical origin; coordinate system holder |
 | **一** | R₁ | First recursion frame |
 | **二** | R₂ | First symmetry break (contrast/dimensionality distinguished) |
 | **三** | R₃ | Stable circulation (orbital); Poincaré-Bendixson threshold |
