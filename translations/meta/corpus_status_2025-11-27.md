@@ -103,6 +103,7 @@ Part 06 maps crafts to chapters: weaving (糸), metallurgy (金), archery (弓),
 | forge_transformation_grammar_2025-11-27.md | Complete - metallurgy as axiom encoding |
 | hamon_chapter76_identity_2025-11-27.md | Complete - 剛/柔 gradient in steel |
 | wuwei_clay_principle_2025-11-27.md | Complete - "you can't force the hamon" |
+| hydraulic_origin_of_governance_2025-11-27.md | Complete - 治 = irrigation = governance |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -194,6 +195,16 @@ Part 06 maps crafts to chapters: weaving (糸), metallurgy (金), archery (弓),
     - 10 technologies mapped: weaving, metal, archery, water, grain, ceramics, wood, optics, cooking, navigation
     - Each technology = one entry point into same geometry
     - Universal failure: pure 剛 or pure 柔; solution always = correct distribution
+
+11. **Hydraulic Origin of Governance**
+    - 治 doesn't use water as metaphor for governance—governance IS water management
+    - 治 = 氵 + 台 = water + platform = channeling through infrastructure
+    - Yu the Great: became ruler BY managing floods, not after
+    - 治水 (manage water) is original; 治國 (manage state) is derived
+    - Irrigation invented the state, not the reverse
+    - 無為 is hydraulic necessity: you literally cannot push water uphill
+    - DDJ may be irrigation engineering documentation
+    - Every 無為 passage should work as irrigation instruction
 
 ---
 
