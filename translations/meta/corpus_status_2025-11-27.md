@@ -95,6 +95,7 @@ Six-part structural lexicon complete:
 | scythe_not_knife_2025-11-27.md | Complete - critical correction |
 | radical_families_grain_blade_2025-11-27.md | Complete |
 | radical_technology_encoding_2025-11-27.md | Complete - radicals as technology manuals |
+| loom_axiom_identity_2025-11-27.md | Complete - loom IS axiom system |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -134,6 +135,15 @@ Six-part structural lexicon complete:
    - 維 means both "maintain" and "dimension" because dimensions require threading
    - 道德經 = "Structural Warp of Pattern and Alignment"
    - Each radical family (禾, 氵, 木, 金, etc.) may encode complete technology-knowledge systems
+
+5. **Loom-Axiom Identity**
+   - The loom doesn't illustrate the axiom system—it IS the axiom system
+   - Warp = 常 (frame-independent invariant), Weft = 可 (frame-dependent variable)
+   - Shuttle executes 反 (2π closure) with every pass
+   - Fabric only exists at perpendicular intersection (⊥ constraint)
+   - 結 (knot) = P-position where flow becomes place
+   - Silkworm running transformation algebra before Euler derived it
+   - "Notation systems aren't inventions. They're recoveries."
 
 ---
 
