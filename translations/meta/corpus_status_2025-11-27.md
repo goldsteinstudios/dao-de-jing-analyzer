@@ -94,6 +94,7 @@ Six-part structural lexicon complete:
 | chapter25_rosetta_stone.md | Complete - key decoder |
 | scythe_not_knife_2025-11-27.md | Complete - critical correction |
 | radical_families_grain_blade_2025-11-27.md | Complete |
+| radical_technology_encoding_2025-11-27.md | Complete - radicals as technology manuals |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -126,6 +127,13 @@ Six-part structural lexicon complete:
 3. **Project Reorganization**
    - Consolidated scattered files
    - Clean folder structure established
+
+4. **Radical Technology Encoding Thesis**
+   - Radicals are compressed engineering manuals from pre-literate technologies
+   - 糸 family encodes textile geometry: 經/緯 = 常/可 in material form
+   - 維 means both "maintain" and "dimension" because dimensions require threading
+   - 道德經 = "Structural Warp of Pattern and Alignment"
+   - Each radical family (禾, 氵, 木, 金, etc.) may encode complete technology-knowledge systems
 
 ---
 
