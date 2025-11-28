@@ -98,6 +98,7 @@ Six-part structural lexicon complete:
 | loom_axiom_identity_2025-11-27.md | Complete - loom IS axiom system |
 | focusing_operation_2025-11-27.md | Complete - 勺 as concave transformation |
 | forge_transformation_grammar_2025-11-27.md | Complete - metallurgy as axiom encoding |
+| hamon_chapter76_identity_2025-11-27.md | Complete - 剛/柔 gradient in steel |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -164,6 +165,16 @@ Six-part structural lexicon complete:
    - 鋼 (steel) = metal + ridge = 剛 at the right scale
    - Differential hardening = engineering 剛/柔 distribution in single object
    - The forge knows 反 in both directions: snap to position vs oscillate to rest
+
+8. **The Hamon-Chapter 76 Identity**
+   - The hamon IS Chapter 76 written in steel
+   - Clay is the operator—shapes how quench applies spatially
+   - Pure 剛 fails (shatters), pure 柔 fails (useless), gradient succeeds
+   - The blade carries its engineering documentation on its surface
+   - Every functional system has its "hamon"—the visible 剛/柔 boundary
+   - Trees (rings), bones (cortical/trabecular), organizations (middle management)
+   - Not "balance between properties" but "correct distribution for function"
+   - The smith was performing Chapter 76 every time they applied clay
 
 ---
 
