@@ -105,6 +105,9 @@ Part 06 maps crafts to chapters: weaving (糸), metallurgy (金), archery (弓),
 | wuwei_clay_principle_2025-11-27.md | Complete - "you can't force the hamon" |
 | hydraulic_origin_of_governance_2025-11-27.md | Complete - 治 = irrigation = governance |
 | framework_synthesis_2025-11-26.md | Complete |
+
+### Book Introduction
+| 00_introduction.md | Complete - "What Our Ancient Ancestors Knew" |
 | corpus_status_2025-11-27.md | This file |
 
 ---
