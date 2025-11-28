@@ -72,7 +72,7 @@
 
 ## Lexicon Status
 
-Six-part structural lexicon complete:
+Seven-part structural lexicon:
 
 | Part | Lines | Content |
 |------|-------|---------|
@@ -82,8 +82,11 @@ Six-part structural lexicon complete:
 | 03 | 427 | Structural Positions (axes) |
 | 04 | 347 | Concept Index |
 | 05 | 238 | Pinyin Index |
+| 06 | ~400 | Technology Index (NEW) |
 
-**Total:** ~2,047 lines of character algebra documentation
+**Total:** ~2,450 lines of character algebra documentation
+
+Part 06 maps crafts to chapters: weaving (糸), metallurgy (金), archery (弓), hydraulics (氵), agriculture (禾), ceramics (土), carpentry (木), optics (勺), cooking (火), navigation (舟)
 
 ---
 
@@ -99,6 +102,7 @@ Six-part structural lexicon complete:
 | focusing_operation_2025-11-27.md | Complete - 勺 as concave transformation |
 | forge_transformation_grammar_2025-11-27.md | Complete - metallurgy as axiom encoding |
 | hamon_chapter76_identity_2025-11-27.md | Complete - 剛/柔 gradient in steel |
+| wuwei_clay_principle_2025-11-27.md | Complete - "you can't force the hamon" |
 | framework_synthesis_2025-11-26.md | Complete |
 | corpus_status_2025-11-27.md | This file |
 
@@ -175,6 +179,21 @@ Six-part structural lexicon complete:
    - Trees (rings), bones (cortical/trabecular), organizations (middle management)
    - Not "balance between properties" but "correct distribution for function"
    - The smith was performing Chapter 76 every time they applied clay
+
+9. **The 無為 Clay Principle**
+   - "You can't force the hamon. You create the conditions for it."
+   - That's 無為. That's the whole thing.
+   - 輔萬物之自然，而不敢為 = clay assists, doesn't impose
+   - Teacher's clay = lesson structure; student's mind = steel
+   - Handmade tools teach use; mass-produced tools require manuals
+   - Radical families = reader's guides to tool technologies
+   - DDJ is navigation system: "you work with X? start with chapter Y"
+
+10. **Technology Index (Lexicon Part 06)**
+    - Cross-reference by craft: which chapters for which practitioners
+    - 10 technologies mapped: weaving, metal, archery, water, grain, ceramics, wood, optics, cooking, navigation
+    - Each technology = one entry point into same geometry
+    - Universal failure: pure 剛 or pure 柔; solution always = correct distribution
 
 ---
 
