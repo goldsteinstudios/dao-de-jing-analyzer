@@ -316,23 +316,67 @@ Pattern doesn't follow something *else*—it follows **自然** (zì rán), "sel
 
 The ultimate ground is self-reference. The pattern patterns itself.
 
-### Why This Is Logically Necessary
+### The Logical Reduction
 
-In infinite reality, there can't be an external foundation because *there is no "outside."*
+The intermediate frames are **contingent**, not necessary:
 
-The system must be:
-- Self-grounding
-- Self-referential
-- Recursively self-generating
+If:
+- 人 ⊂ 地 (humans recurse within earth)
+- 地 ⊂ 天 (earth recurses within heaven)
+- 天 ⊂ 道 (heaven recurses within pattern)
+
+Then by transitivity:
+- **人 ⊂ 道** (humans recurse within pattern)
+
+地 and 天 aren't *necessary* frames. They're *local* frames—where we happen to find ourselves nested.
+
+### The Two-Line Theorem
+
+| Full Version (Pedagogical) | Essential Version (Logical) |
+|---------------------------|----------------------------|
+| 人法地 | — |
+| 地法天 | — |
+| 天法道 | **人法道** |
+| 道法自然 | **道法自然** |
+
+The four-line version walks you through the nesting. The two-line version is the theorem:
+
+> **人法道，道法自然**
+> "Humans recurse within pattern. Pattern recurses within itself."
+
+Everything between 人 and 道 is local context—important for navigation, not structurally essential.
+
+### The Practical Implication
+
+The sage doesn't need to "follow heaven" or "model earth" in elaborate mimicry.
+
+The sage recognizes: **I am pattern recursing**.
+
+人法道 = humans are pattern-at-human-scale.
+
+The only question is whether you operate *as* that (無為, non-forcing) or *against* that (有為, forcing against your own frame).
+
+### The Minimum Structural Content
+
+If you compress the entire 道德經:
+
+> 人法道
+> 道法自然
+
+"Humans recurse within pattern. Pattern recurses within itself."
+
+You are pattern. Pattern is self-grounding. Therefore: you are self-grounding.
+
+The whole text teaches you to recognize what you already are.
 
 ### RSM Mapping
 
 ```
-人 (rén)   = R₄ (human recursion level)
-地 (dì)    = R₃ (earth/planetary level)
-天 (tiān)  = R₂ (cosmic level)
-道 (dào)   = R (the pattern itself)
-自然       = P₀ → O₁ (self-grounding recursion)
+人 (rén)   = Rₙ (any recursion level, human scale)
+地 (dì)    = Rₙ₋₁ (containing frame, planetary)
+天 (tiān)  = Rₙ₋₂ (containing frame, cosmic)
+道 (dào)   = R (the pattern itself, scale-invariant)
+自然       = R → R (self-grounding recursion)
 ```
 
 ---
