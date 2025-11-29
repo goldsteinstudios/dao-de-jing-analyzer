@@ -34,16 +34,43 @@ And 弱 (ruò)—"yielding"—isn't weakness. In infinite systems, **rigidity is
 
 ---
 
-## ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ THE RECURSION CYCLE (10/10)
+## ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ THE THREE-PHASE ENGINE (10/10)
 
 **Slip A22, Chapter 25:**
 
-| Stage | Guodian | Received | RSM Reading |
-|-------|---------|----------|-------------|
-| 1 | 大 (dà) | 大 | Unbounded/expanding |
-| 2 | **潰** (kuì) | 逝 (shì) | **OVERFLOW** vs. "depart" |
-| 3 | 遠 (yuǎn) | 遠 | Far/reaching boundary |
-| 4 | 反 (fǎn) | 反 | Return/reversal |
+### The Grammar Correction
+
+The passage isn't listing four sequential stages:
+
+~~道 → 大 → 潰 → 遠 → 反~~
+
+It's declaring **what cycles** and then describing **how it cycles**:
+
+| Slip | Chinese | Pinyin | Structure |
+|------|---------|--------|-----------|
+| A22 | 大曰潰 | dà yuē kuì | "Infinite-field is called overflow" |
+| A22 | 潰曰遠 | kuì yuē yuǎn | "Overflow is called far" |
+| A22 | 遠曰反 | yuǎn yuē fǎn | "Far is called return" |
+
+The 曰 (yuē, "is called") structure shows **phase transitions**, not sequential stages.
+
+### The Reparse
+
+| Term | Role |
+|------|------|
+| **道** (dào) | The pattern (how the field operates) |
+| **大** (dà) | The infinite field (what operates) |
+| **潰→遠→反** | The operation itself (the three-phase cycle) |
+
+**道大** = "The patterned infinite field" — pattern and field are identity.
+
+Then the three phases describe what that patterned-infinite-field *does*:
+
+| Phase | Chinese | What the Field Does |
+|-------|---------|---------------------|
+| **潰** (kuì) | Overflows into manifestation (萬物 emerges) |
+| **遠** (yuǎn) | Extends to far reaches (differentiation maximizes) |
+| **反** (fǎn) | Returns (reintegration toward unity) |
 
 ### The Archaeological Breakthrough
 
@@ -52,22 +79,45 @@ The Guodian original uses **潰** (kuì)—"to overflow, like a river bursting i
 
 **潰 is hydraulic. It's geometric.**
 
-The cycle becomes:
-1. **大** (dà) — The unbounded expands
-2. **潰** (kuì) — It overflows its container (reaches capacity)
-3. **遠** (yuǎn) — It extends to the far boundary
-4. **反** (fǎn) — It returns
+And crucially: 大 isn't *stage one* of the cycle—大 is **what's cycling**. The infinite field itself goes through these three phases *simultaneously, continuously, everywhere*.
 
-This is the **breathing of infinity**. Any process in an infinite field must cycle because there's no edge to stop at and no void to dissipate into.
+### Why This Reading Is Stronger
+
+The four-stage reading put 道 and 大 on the same level as process stages. But 道 and 大 aren't *doing* the cycling—they're **what cycles** and **how it cycles**.
+
+This also makes 道法自然 cleaner: if 道大 establishes that pattern = infinite field, then 道法自然 says "the patterned-infinite-field follows its own nature." Self-referential all the way down.
+
+### The Full Structure
+
+```
+道大 (dào dà)
+THE PATTERNED INFINITE FIELD
+         │
+         │ cycles through:
+         │
+         ├── 潰 (kuì) — overflow/differentiate
+         │      │
+         │      ▼
+         ├── 遠 (yuǎn) — extend/manifest
+         │      │
+         │      ▼
+         └── 反 (fǎn) — return/reintegrate
+                │
+                └──────→ (back to 潰)
+```
+
+The ten thousand things (萬物) are the infinite field in its 潰→遠 phase. Their constant transformation is the 反 phase pulling them back toward undifferentiation, which immediately overflows again.
 
 ### RSM Mapping
 
 ```
-大 (dà)   = O₁ (origin expanding)
-潰 (kuì)  = G₁ (gradient overflow)
-遠 (yuǎn) = P₁ (far boundary reached)
-反 (fǎn)  = O₂ (return/promotion)
+道大      = R (the whole recursion pattern as infinite field)
+潰 (kuì)  = G₁ (gradient overflow into manifestation)
+遠 (yuǎn) = P₁ (periphery reached, differentiation maximized)
+反 (fǎn)  = Z₁ (circulation back toward origin)
 ```
+
+The three-phase engine maps directly to G → P → Z circulation within each recursion frame.
 
 ---
 
@@ -207,7 +257,7 @@ By 300 BCE, these principles were already systematized:
 |-----------|----------|---------------|
 | Oscillation as fundamental | 反者道之動 | Zₙ (circulation) |
 | Yielding as function | 弱者道之用 | ∂Pₙ/∂t = 0 (wu wei) |
-| Recursion cycle | 大→潰→遠→反 | O → G → P → O |
+| Three-phase engine | 道大 + 潰→遠→反 | R cycling through G → P → Z |
 | Self-organization | Seven 自X operations | Rₙ self-maintenance |
 | Co-emergence | Six 相X operations | G ⊥ B at Pₙ |
 | Functional void | 虛而不屈 | O₁ (origin) |
