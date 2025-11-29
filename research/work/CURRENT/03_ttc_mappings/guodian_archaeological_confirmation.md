@@ -301,18 +301,38 @@ Not a temporal sequence—a logical necessity. You can't have the first without 
 
 **Slip A23, Chapter 25:**
 
-| Chinese | Pinyin | RSM Reading |
-|---------|--------|-------------|
-| 人法地 | rén fǎ dì | Humans follow earth |
-| 地法天 | dì fǎ tiān | Earth follows heaven |
-| 天法道 | tiān fǎ dào | Heaven follows pattern |
-| 道法自然 | dào fǎ zì rán | **Pattern follows self-so** |
+| Chinese | Pinyin | "Follows" Reading | "Recurses Within" Reading |
+|---------|--------|-------------------|--------------------------|
+| 人法地 | rén fǎ dì | Humans model earth | Humans operate within earth's frame |
+| 地法天 | dì fǎ tiān | Earth models heaven | Earth operates within heaven's frame |
+| 天法道 | tiān fǎ dào | Heaven models pattern | Heaven operates within pattern's frame |
+| 道法自然 | dào fǎ zì rán | Pattern models self-so | **Pattern operates within itself** |
+
+### 法 (fǎ): Not "Models" — "Recurses Within"
+
+法 = **氵(water) + 去 (go/remove)**
+
+Water doesn't need instructions to flow. It finds the contours. It operates within whatever contains it. Water doesn't *model* the riverbank—water **recurses within** the riverbank's constraints.
+
+法 = how water operates: by fitting inside, by flowing within, by finding what the containing frame allows.
+
+### The Structural Implication
+
+The "models" reading makes the passage advice: *"Imitate nature!"*
+
+The "recurses within" reading makes it a **map of frame nesting**:
+
+```
+人 ⊂ 地 ⊂ 天 ⊂ 道 ⊂ 道
+```
+
+At the end, 道 ⊂ 道. Pattern is an element of itself. The fixed point. The self-containing frame.
 
 ### The Frame-Nesting Hierarchy
 
 Notice the terminus: 道法自然
 
-Pattern doesn't follow something *else*—it follows **自然** (zì rán), "self-so-ness."
+Pattern doesn't follow something *else*—it **operates within** 自然 (zì rán), "self-so-ness."
 
 The ultimate ground is self-reference. The pattern patterns itself.
 
