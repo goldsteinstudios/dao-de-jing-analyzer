@@ -80,23 +80,29 @@ If 常/可 describes compression states rather than temporal qualities, there's 
 
 What lets the structure unfold?
 
-**Space. Room. The void to expand into. 無.**
+**The structure CREATES the void by holding it open.**
 
-The flat-packed decoration contains every bit of its final form. What it lacks is 無—the emptiness that allows expression. You hang it, and you haven't added anything. You've just provided the void.
+### Critical Correction
+
+The honeycomb analogy is useful but incomplete. The structure doesn't expand INTO pre-existing room — **it creates the space it expands into by turning the infinite field into a held void**.
+
+Think of a whirlpool: the water doesn't find an empty hole and fill it. The spinning water CREATES the void at the center by its own motion. The void exists because the structure holds it open.
 
 ### Reframing 有/無
 
 | State | Description |
 |-------|-------------|
-| Packed flat | Structure present, no space to express = 常 without 無 |
-| Hanging | Structure present AND space to express = 常 + 無 = 可 |
+| 無 | The void that structure creates by holding it open |
+| 有 | What manifests in the held-open space |
+| 常 | Implicit structure (capable of creating void) |
+| 可 | Explicit manifestation (structure actively holding void open) |
 
-**無 isn't the absence of everything. It's the presence of room.** The space the pattern needs to become itself.
+**無 isn't pre-existing room. 無 is what happens when structure creates space by its own operation.**
 
 > 當其無，有室之用
 > "In its emptiness, there is the room's function."
 
-Not because the emptiness does something. Because the emptiness lets the structure be what it already is.
+The room's function exists because walls hold the void open. Remove the walls, the void collapses. The structure creates what it needs.
 
 ---
 
@@ -104,22 +110,22 @@ Not because the emptiness does something. Because the emptiness lets the structu
 
 > 為無為
 
-| Traditional | Packed/Hanging |
-|-------------|----------------|
-| "Act without acting" | **"Provide the void"** |
+| Traditional | Structural |
+|-------------|------------|
+| "Act without acting" | **"Enact the void-creating operation"** |
 
-The sage doesn't create the ten thousand things. The ten thousand things are already present in 常—packed, implicit, complete. The sage provides 無—the room for them to unfold.
+The sage doesn't "provide" the void as if it pre-existed. The sage performs the operation that creates/maintains the void — the same operation the whirlpool performs, the same operation walls perform for a room.
 
-- The sage provides **無**
-- The 萬物 provide **常**
-- The unfolding is **可**
+- **為** = the operation, the active holding-open
+- **無** = the void that the operation creates
+- **為無為** = enact the void-creation without adding extra
 
 This is why Chapter 37 says:
 
 > 道常無為而無不為
-> "Pattern constantly non-acts, yet nothing is left undone."
+> "Pattern implicitly enacts-void, yet nothing is left undone."
 
-The pattern doesn't *do* anything. The pattern *is* everything—compressed, waiting. Given room (無), it expresses. Nothing added, nothing forced. Just... space to hang.
+The pattern performs the void-creating operation at the implicit level. The void it creates allows everything to manifest. Nothing added, nothing forced — just the structure holding open the space that manifestation needs.
 
 ---
 
@@ -134,23 +140,38 @@ The pattern doesn't *do* anything. The pattern *is* everything—compressed, wai
 | Maintenance | 常→可→常 (folding and unfolding cycles) |
 | Divergence | 可 that creates new 常 (new folds) |
 
-### The Three-Phase Engine Mapped
+### The Sphere Proof (Chapter 25)
 
-| Phase | Compression |
-|-------|-------------|
-| 道大 (field) | 常 (everything packed) |
-| 潰→遠 (overflow→extend) | 常→可 (unfolding into expression) |
-| 反 (return) | 可→常 (refolding into implicit) |
+| Phase | What Happens |
+|-------|--------------|
+| 道大 | Pattern of infinity (section header) |
+| 大曰潰 | Infinity overflows (from 玄牝) |
+| 潰曰遠 | Overflow extends infinitely |
+| 遠曰反 | Extension closes on itself (spherical necessity) |
 
-### The Generation Sequence
+**反 is closure, not return.** The shape of infinite reality is a sphere because that's the only way to have a dimensionless infinite surface.
+
+### The Generation Sequence (Chapter 42)
 
 > 道生一。一生二。二生三。三生萬物。
 
-Not a sequence of creation. **A sequence of unfolding.**
+Not temporal sequence. **Logical dependency.**
 
-The ten thousand things aren't generated from nothing—they're released from compression. The pattern (道) contains all of it, packed flat.
+| Term | RSM | What It Is |
+|------|-----|------------|
+| 道 | P₀ → O₁ | Pattern (玄牝 through 無名) |
+| 一 | O₁ | Unity (origin point) |
+| 二 | X, Y | Two axes (天, 地) |
+| 三 | X, Y + 沖氣 | The interaction they create |
+| 萬物 | Instances | All bounded forms |
 
-萬物 was always in 道. It just needed space to hang.
+```
+NOT:  O₁ ──then──> 天地 ──then──> 萬物
+
+BUT:  O₁ ⟷ 天地 ⟷ 萬物  (simultaneous, mutual)
+```
+
+The generation sequence isn't temporal history — it's what requires what to be coherent. They all exist together, always.
 
 ---
 
