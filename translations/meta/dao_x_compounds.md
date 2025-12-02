@@ -21,7 +21,7 @@ Each 道X compound functions as a **section header** introducing a domain and it
 | **道沖** | 4 | Pattern of hollowness | 用之或不盈 (use without filling) |
 | **道隱** | 41 | Pattern of hiddenness | 無名 (nameless substrate) |
 | **道紀** | 14 | Pattern's ordering-thread | The continuous substrate |
-| **道之動** | 40 | Pattern's movement | 反者 (reversal/closure) |
+| **道之動** | 40 | Pattern's movement | 反者 (wraparound) |
 | **道之用** | 40 | Pattern's function | 弱者 (yielding) |
 | **道之華** | 38 | Pattern's flowering | Mere display vs. substance |
 | **道之為物** | 21 | Pattern-as-thing | 唯恍唯惚 (indistinct) |
@@ -41,10 +41,10 @@ Each 道X introduces an aspect, then documents its **為** — what it does, how
 
 | Compound | 為 (Operation) |
 |----------|----------------|
-| 道大 | Overflows → extends → closes (sphere proof) |
+| 道大 | Overflows → extends → wraps around (sphere proof) |
 | 道常 | Non-acts yet completes everything |
 | 道沖 | Used without filling |
-| 道之動 | Reversal/closure |
+| 道之動 | Wraparound (continuous extension arriving at origin) |
 | 道之用 | Yielding |
 | 道生 | Generates 一→二→三→萬物 |
 
@@ -66,7 +66,7 @@ Each 道X introduces an aspect, then documents its **為** — what it does, how
 
 | Compound | Operation |
 |----------|-----------|
-| 道之動 | Movement (reversal/oscillation) |
+| 道之動 | Movement (wraparound) |
 | 道之用 | Function (yielding) |
 | 道生 | Generation (emanation sequence) |
 | 道法 | Self-recursion (self-grounding) |

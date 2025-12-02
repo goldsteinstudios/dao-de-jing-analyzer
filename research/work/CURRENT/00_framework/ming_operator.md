@@ -133,9 +133,9 @@ This is:
 | 道大 (field) | Pre-differentiated | 無名 (before measurement) |
 | 潰 (overflow) | Beginning differentiation | 名 operation starting |
 | 遠 (extend) | Maximum differentiation | 有名 (fully measured/named) |
-| 反 (return) | Returning to undifferentiated | 名 dissolving back to 無名 |
+| 反 (wraparound) | Arriving back at undifferentiated | 名 dissolving back to 無名 |
 
-The three-phase engine is the 名 operation running forward (無名→有名) and then reversing (有名→無名), continuously.
+The three-phase engine is the 名 operation running forward (無名→有名) and wrapping around (有名→無名), continuously.
 
 ---
 

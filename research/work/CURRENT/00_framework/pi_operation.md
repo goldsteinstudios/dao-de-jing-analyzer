@@ -65,9 +65,9 @@ Why π specifically?
 The three-phase engine:
 - **潰** (overflow) — departure from origin
 - **遠** (extend) — reaching far boundary (approaching π)
-- **反** (return) — completion of circuit (2π back to start)
+- **反** (wraparound) — arriving at origin from opposite side (2π)
 
-π isn't arbitrary. It's the angle at which you've gone as far as you can in one direction. 反 (return) is what happens at π—the reversal that enables completion.
+π isn't arbitrary. It's the angle at which you've gone as far as you can in one direction. 反 (wraparound) is what happens — not a reversal of direction, but continuous extension that arrives at origin from the opposite side. Like walking east until you come from the west.
 
 ---
 

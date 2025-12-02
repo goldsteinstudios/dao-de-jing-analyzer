@@ -147,9 +147,9 @@ The pattern performs the void-creating operation at the implicit level. The void
 | 道大 | Pattern of infinity (section header) |
 | 大曰潰 | Infinity overflows (from 玄牝) |
 | 潰曰遠 | Overflow extends infinitely |
-| 遠曰反 | Extension closes on itself (spherical necessity) |
+| 遠曰反 | Extension wraps around to origin |
 
-**反 is closure, not return.** The shape of infinite reality is a sphere because that's the only way to have a dimensionless infinite surface.
+**反 is wraparound, not reversal.** The shape of infinite reality is a sphere because that's the only way to have a dimensionless infinite surface. You don't turn around — you keep going and the topology brings you back. Like walking east until you arrive from the west.
 
 ### The Generation Sequence (Chapter 42)
 

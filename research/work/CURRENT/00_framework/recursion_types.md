@@ -86,7 +86,7 @@ Maintenance recursion is the steady-state operation—the same pattern running a
 - 自定 (self-settle)
 - 自正 (self-correct)
 - 自均 (self-equalize)
-- The 反 phase returning to enable another cycle
+- The 反 phase (wraparound arriving at origin to enable another cycle)
 
 ---
 

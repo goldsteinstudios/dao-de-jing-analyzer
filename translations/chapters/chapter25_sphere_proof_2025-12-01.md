@@ -27,7 +27,7 @@
 
 3. **大曰潰，潰曰遠，遠曰反 is a geometric proof** — Not a cycle, not a process. A derivation showing that infinity must be spherical.
 
-4. **反 is closure, not return** — The shape of infinite reality is a sphere because that's the only way to have a dimensionless infinite surface. Infinite extension closes on itself.
+4. **反 is wraparound, not return** — The shape of infinite reality is a sphere because that's the only way to have a dimensionless infinite surface. Infinite extension wraps around to origin.
 
 ---
 
@@ -88,18 +88,20 @@ The overflow (潰) doesn't name its source here because **Chapter 6 already esta
 | 大 | — | Infinity | Starting condition: unbounded field |
 | 潰 (kuì) | ✓ | Overflow, burst dam | Infinity overflows from 玄牝 in all directions |
 | 遠 (yuǎn) | ✓ | Far, extending | Extends infinitely in every direction |
-| 反 (fǎn) | ✓ | Closure | Must close on itself |
+| 反 (fǎn) | ✓ | Wraparound | Arrives at origin from opposite direction |
 
 **The derivation:**
 
 1. **大** — Start with infinity (unbounded field)
 2. **曰潰** — Infinity overflows (from 玄牝, expands everywhere)
 3. **潰曰遠** — Overflow extends infinitely (in all directions)
-4. **遠曰反** — Infinite extension closes on itself
+4. **遠曰反** — Infinite extension wraps around to origin
 
-**Why closure?** The shape of an infinite reality is a sphere because that's the only possible way to have a dimensionless infinite surface. Infinite extension in all directions from any point must meet itself.
+**Why wraparound?** The shape of an infinite reality is a sphere because that's the only possible way to have a dimensionless infinite surface. Infinite extension in all directions from any point arrives at origin from the opposite side.
 
-This is **geometric necessity**, not cycle or return. The text is proving that infinity has spherical topology.
+This is **geometric necessity**, not oscillation or reversal. You don't turn around — you keep going and the topology brings you back. Like walking east until you arrive from the west.
+
+The text is proving that infinity has spherical topology.
 
 ### The 為 of 大
 
@@ -109,7 +111,7 @@ The sequence documents what infinity DOES (its 為):
 |-----------|-------------------|
 | 大曰潰 | Infinity overflows |
 | 潰曰遠 | Overflow extends |
-| 遠曰反 | Extension closes |
+| 遠曰反 | Extension wraps around |
 
 This matches the 道X pattern: each 道X introduces an aspect, then documents its 為 (operation/mechanics).
 
@@ -206,7 +208,7 @@ We enter mid-cycle with 有 (presence). The pattern is already in motion.
 
 **大曰潰，潰曰遠，遠曰反。**
 
-"Infinity overflows; overflow extends; extension closes."
+"Infinity overflows; overflow extends; extension wraps around."
 
 The geometric proof: unbounded extension in all directions must be spherical.
 
@@ -275,7 +277,7 @@ The **沖氣** (chōng qì) — the "rushing/blending breath" — is what happen
 
 The generation sequence isn't temporal history — it's **logical dependency**. What requires what to be coherent. You can't have 萬物 without 三, can't have 三 without 二. But they all exist together, always.
 
-This is why 反 (closure) enables 生 (generation) — the recursion happens on a closed manifold where origin and manifestation are never separate.
+This is why 反 (wraparound) enables 生 (generation) — the recursion happens on a closed manifold where origin and manifestation are never separate.
 
 ---
 
@@ -287,7 +289,7 @@ This is why 反 (closure) enables 生 (generation) — the recursion happens on 
 | 道大 = "pattern is great" | 道大 = section header: "pattern of infinity" |
 | 大曰逝 = "great goes forth" | 大曰潰 = "infinity overflows" |
 | 逝→遠→反 = cycle/oscillation | 潰→遠→反 = geometric proof |
-| 反 = return | 反 = closure (spherical necessity) |
+| 反 = return | 反 = wraparound (spherical topology) |
 | The text describes a process | The text proves a theorem |
 
 ---

@@ -15,7 +15,7 @@
 | **天下** (tiān xià) | Bounded region | Where 萬物 manifest within the system |
 | **萬物** (wàn wù) | Instances | Parametric expressions at specific coordinates |
 | **大** (dà) | Infinity | The unbounded field |
-| **反** (fǎn) | Closure | Spherical necessity — infinite extension closes on itself |
+| **反** (fǎn) | Wraparound | Spherical topology — infinite extension arrives at origin from opposite direction |
 
 ---
 
@@ -68,9 +68,9 @@ BUT:  O₁ ⟷ 天地 ⟷ 萬物  (simultaneous, mutual)
 | 大 | ∞ | Unbounded field |
 | 潰 | Overflow | From 玄牝, expands everywhere |
 | 遠 | Extension | Infinite in all directions |
-| 反 | Closure | Spherical topology (geometric necessity) |
+| 反 | Wraparound | Arrives at origin from opposite direction |
 
-The sphere proof: infinite extension in all directions must close on itself.
+The sphere proof: infinite extension in all directions wraps around to origin.
 
 ### Chapter 42: The Generation Sequence
 
@@ -154,7 +154,7 @@ The structure doesn't expand INTO pre-existing room — **it creates the space i
 
 3. **Structure creates void** — 無 is held open by structure, not pre-existing
 
-4. **Spherical necessity** — Infinite extension must close (反 = closure, not return)
+4. **Spherical topology** — Infinite extension wraps around (反 = wraparound, not reversal)
 
 5. **Self-grounding** — 道法自然 means pattern recurses within itself, no external reference
 
