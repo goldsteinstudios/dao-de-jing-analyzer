@@ -119,47 +119,81 @@ This is why 知常曰明 (knowing the constant is called clarity). Clarity is se
 
 ## The 妙/徼 (miào/jiào) Axis
 
-**The axis of observational mode**
+**The axis of observational mode — two orthogonal operations**
 
 ### Core Characters
 
 | Character | Pinyin | Components | Position | DDJ Chapters | Guodian? |
 |-----------|--------|------------|----------|--------------|----------|
-| **妙** | miào | 女 + 少 (woman + few) | Relational patterns, subtlety | 1, 27 | ✓ |
-| **徼** | jiào | 彳 + 敫 (step + boundary) | Edges, boundaries, form-structure | 1 | ✓ |
+| **妙** | miào | 女 + 少 (woman + few) | Relational patterns, flows, connections | 1, 27 | ✓ |
+| **徼** | jiào | 彳 + 敫 (step + boundary) | Edges, boundaries, where things stop | 1 | ✓ |
 
 ### Chapter 1's Formula
 
 > 故常無欲以觀其妙；常有欲以觀其徼
-> "Therefore: constantly without desire, observe its subtlety; constantly with desire, observe its boundaries"
+> "Orient toward implicit-nothing to observe relational patterns; orient toward implicit-something to observe boundaries"
 
-| Observational Mode | Orientation | What You See |
-|-------------------|-------------|--------------|
-| 無欲 (without desire) | Void-oriented | 妙 (relational patterns, subtlety) |
-| 有欲 (with desire) | Form-oriented | 徼 (edges, boundaries, structure) |
+| Observation Stance | Orientation | What You Perceive |
+|-------------------|-------------|-------------------|
+| 常無欲 | Implicit-nothing | 妙: relational patterns, flows, what connects |
+| 常有欲 | Implicit-something | 徼: boundaries, edges, where things stop |
 
-### Two Valid Modes
+**Translation correction:** 欲 here is not "desire" (moral). It is "orientation/focus" (methodological). These lines are observation instructions, not ethical prescriptions.
 
-This is NOT "desire bad, non-desire good." Both observational modes are valid and necessary:
+### The Binary Assumption Challenge
 
-| Mode | What It Reveals | Example |
-|------|-----------------|---------|
-| 觀其妙 | How things relate | Seeing the web of connections |
-| 觀其徼 | How things bound | Seeing the edges of forms |
+Western logic operates on what seems self-evident:
 
-**Analogy:** Looking at a forest:
-- 妙 observation: sees the ecosystem, relationships, flows
-- 徼 observation: sees individual trees, edges, shapes
+> If A is A, then A is not not-A.
 
-Neither is wrong. Both are partial. The text documents both.
+Identity determines negation. Know what something IS, and you automatically know what it IS NOT.
 
-### Why Two Modes?
+**The DDJ challenges this directly.**
 
-Because reality has both aspects:
-- Relational patterns (妙) that operate beneath/between forms
-- Boundary structures (徼) that define distinct things
+妙-observation and 徼-observation are **orthogonal operations**, not logical inverses. They produce genuinely different information. Neither derives from the other.
 
-The sage can shift between modes. The stuck observer is trapped in one.
+### The Tree Demonstration
+
+**妙-observation** (orient toward implicit-nothing):
+
+What the tree IS — as dynamic process. Water pulled through roots, lifted through xylem, released through leaves. Carbon captured from air, fixed into structure. Sugars distributed through phloom. Mycorrhizal networks connecting tree to tree.
+
+The tree IS a standing wave in flows of matter and energy.
+
+**徼-observation** (orient toward implicit-something):
+
+Where the tree STOPS — its boundary. The bark surface? Dead. The root tips? Interpenetrated by fungi. The leaf surfaces? Permeable membranes. The more precisely you look for the boundary, the more it recedes.
+
+Until you find the **cambium** — a layer with no measurable thickness, the only part actually alive, where inside becomes outside.
+
+### What Emerges From Both Stances
+
+Neither stance alone produces the complete insight:
+
+- 妙 reveals the tree is **made of not-tree** (carbon from air, water from rain, minerals from soil)
+- 徼 reveals the **boundary is the only living part** (dead xylem inside, dead bark outside, life only at the dimensionless edge)
+
+Together: The tree maintains itself by circulating what-it-is-not around a hollow center, through a boundary that has no dimension.
+
+**This is not a special property of trees. This is the structure of persistence itself.**
+
+### Where 徼-Observation Fails
+
+The places where boundary-observation **fails to produce clean edges** are not observation failures. They are **discoveries of structural paradox**:
+
+| Paradox | Structure | Function |
+|---------|-----------|----------|
+| Hollow center | Hub void, pith can rot while tree stands | Creates space for rotation/flow |
+| Dimensionless boundary | Cambium, the living edge with no thickness | Where transformation happens |
+| Inside made of outside | The tree is mostly not-tree | Persistence through circulation |
+
+**These paradoxes are features, not bugs.** They are where persistence happens.
+
+### The Unity
+
+此兩者同出而異名，同謂之玄
+
+The two stances "emerge together" (同出) but "illuminate differently" (異名). Their unity is 玄 — the paradoxical origin. Not one stance transcending the other. Not synthesis resolving the tension. The **preserved paradox itself, functioning**.
 
 ---
 
